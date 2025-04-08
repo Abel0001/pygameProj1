@@ -175,7 +175,7 @@ ball = GameObject(gameObjects, 3,ballImg ,100,100, textureType= TextureType.IMAG
 
 
 object1.SetCurrHealth(0)
-print(1)
+
 
 
 
